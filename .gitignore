@@ -1,0 +1,7 @@
+app/static/libs/
+app/static/js/
+node_modules
+.DS_Store
+.module-cache
+Gruntfile.js
+package.json

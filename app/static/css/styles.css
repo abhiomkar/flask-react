@@ -1,0 +1,49 @@
+.r-container {
+	margin: auto;
+	width: 400px;
+	margin-top: 200px;
+}
+
+.r-container h1 {
+	font-family: 'Helvetica Nueu', Helvetica, Arial, sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	color: #3F3F3F;
+}
+
+.r-container > input {
+	width: 100%;
+	font-size: 15px;
+	font-weight: 300;
+	border: 1px solid #cdcdcd;
+	padding: 6px;
+	outline: 0;
+}
+
+.r-container > input:hover, .r-container > input:active, .r-container > input:focus {
+	border: 1px solid #bbb;
+}
+
+.r-container > ul.list {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	border-left: 1px solid #cdcdcd;
+	border-bottom: 1px solid #cdcdcd;
+	border-right: 1px solid #cdcdcd;
+	box-shadow: 1px 1px 3px #cdcdcd;
+	overflow: scroll;
+}
+
+.r-container > ul.list a {
+	cursor: default;
+	color: #333;
+	padding-left: 7px;
+	padding-right: 7px;
+	display: block;
+}
+
+.r-container > ul.list a:hover {
+	text-decoration: none;
+	background: #f1f1f1;
+}
