@@ -5,6 +5,10 @@ Introduction
 ------------
 Boilerplate to create a simple web app with Flask and React. Other fontend libraries included Twitter Bootstrap, jQuery, Lodash, Require.js & Font Awesome.
 
+Demo
+----
+Deployed on Heroku: [flask-react.herokuapp.com](http://flask-react.herokuapp.com)
+
 Installation
 ------------
 * Install python dependencies

@@ -62,7 +62,7 @@ define([
 
             return (<div className='r-container'>
                         <h1>Google Auto Suggestion</h1>
-                        <input autoFocus autocomplete='off' type='text' onChange={this.handleChange} defaultValue='' placeholder='type something here...' />
+                        <input autoFocus autoComplete='off' type='text' onChange={this.handleChange} defaultValue='' placeholder='type something here...' />
                         {suggestions.length > 0 ? <ul className='list'>{suggestions}</ul> : null}
                     </div>);
         }
