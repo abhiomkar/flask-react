@@ -36,3 +36,12 @@ Abhinay Omkar <abhiomkar@gmail.com>
 License
 -------
 MIT
+
+TODO
+----
+
+- Migrate to ES6. Get rid of deprecated JSX.
+- Support server side rendering of React components
+- Use webpack & gulp for packaging and building.
+- Use PostCSS.
+- Add deploy instructions.
